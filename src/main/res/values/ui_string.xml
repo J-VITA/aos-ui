@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pdfPrevious">이전 페이지</string>
+    <string name="pdfNext">다음 페이지</string>
+</resources>

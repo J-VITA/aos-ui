@@ -1,0 +1,80 @@
+<resources>
+    <string name="title_activity_app_setting">AppSettingActivity</string>
+    <string name="kakao_scheme">kakao</string>
+    <string name="kakaolink_scheme">kakaolink</string>
+    <string name="title_activity_permission">PermissionActivity</string>
+
+    <string name="text_confirm">확인</string>
+    <string name="text_setting">설정</string>
+    <string name="text_notice">알림</string>
+    <string name="text_install">설치</string>
+    <string name="text_cancel">취소</string>
+    <string name="text_yes">네</string>
+    <string name="text_no">아니오</string>
+    <string name="app_finish_message">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
+
+    <!--  version  -->
+    <string name="update_title">업데이트</string>
+    <string name="update_message">최신 버전이 존재하여 앱 업데이트를 진행하여 주세요.</string>
+    <string name="newVersion">최신 버전입니다.</string>
+    <string name="oldVersion">최신 버전이 존재합니다.</string>
+
+    <!-- storage permission -->
+    <string name="receive_ssl_error_title">웹사이트 보안</string>
+    <string name="receive_ssl_error_message">이 사이트의 보안 인증서는 신뢰할 수 없습니다.</string>
+
+    <!-- storage permission -->
+    <string name="storage_permission_title">저장공간</string>
+    <string name="title_activity_client_chat">ClientChatActivity</string>
+    <!-- push permission dialog -->
+    <string name="push_alram_title">쇼핑 혜택 알림 받기</string>
+    <string name="push_alram_content">세일, 이벤트, 추천 상품 등\n유용한 정보를 알림으로 받아보세요.</string>
+    <string name="push_alram_ok">알림 받기</string>
+    <string name="push_alram_cancel">나중에 받기</string>
+
+    <string name="title_activity_test01">Test01</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_push_settings">알림 설정</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="push_header">앱 설정</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="pushYn">푸쉬 알림 동의</string>
+    <string name="mktPushYn">푸쉬 마케팅 수신동의</string>
+    <string name="msgPushYn">푸쉬 정보성 수신동의</string>
+    <string name="nightPushYn">야간 알림 동의</string>
+    <string name="nightPushAgree">(오후9시~오전8시 사이에 알림을 받을 수 있습니다.)</string>
+    <string name="sync_all_alarm">전체알람</string>
+    <string name="event_alarm">이벤트알람</string>
+    <string name="new_alarm">근처 신규업체 추가알림</string>
+    <string name="community_alarm">커뮤니티 댓글 알림</string>
+    <string name="contents_alarm">콘텐츠 업데이트 알림</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!--  fcm  -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+
+    <!--  underline text  -->
+    <string name="underline_text"><u>%s</u></string>
+
+    <!-- instagram -->
+    <string name="instagram_title">인스타그램</string>
+    <string name="instagram_message">인스타그램 애플리케이션이 존재하지 않습니다. 다운로드 받으러 가시겠습니까?</string>
+</resources>
